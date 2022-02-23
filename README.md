@@ -228,7 +228,7 @@ By default, `XRegExp.matchRecursive` throws an error if it scans past an unbalan
 
 ## Credits
 
-XRegExp project collaborators are:
+The XRegExp project on **node.js** collaborators are:
 
 - [Steven Levithan](https://blog.stevenlevithan.com/)
 - [Joseph Frazier](https://github.com/josephfrazier)
