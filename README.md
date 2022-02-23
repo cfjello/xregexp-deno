@@ -25,8 +25,8 @@ XRegExp compiles to native `RegExp` objects. Therefore regexes built with XRegEx
 In Deno:
 
 ```
-// @deno-types='https://deno.land/x/xregexp-deno/types/index.d.ts'
-import XRegExp from  'https://deno.land/x/xregexp-deno/src/index.js'
+// @deno-types='https://deno.land/x/xregexp/types/index.d.ts'
+import XRegExp from  'https://deno.land/x/xregexp/src/index.js'
 ```
 If you are not using TypeScript then leave out the @deno-types import above.
 
